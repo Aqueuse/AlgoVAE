@@ -1,0 +1,14 @@
+C:\Users\jaima\Desktop\AlgoVAE\obj\Debug\net8.0\AlgoVAE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaima\Desktop\AlgoVAE\obj\Debug\net8.0\AlgoVAE.AssemblyInfoInputs.cache
+C:\Users\jaima\Desktop\AlgoVAE\obj\Debug\net8.0\AlgoVAE.AssemblyInfo.cs
+C:\Users\jaima\Desktop\AlgoVAE\obj\Debug\net8.0\AlgoVAE.csproj.CoreCompileInputs.cache
+C:\Users\jaima\Desktop\AlgoVAE\bin\Debug\net8.0\AlgoVAE.exe
+C:\Users\jaima\Desktop\AlgoVAE\bin\Debug\net8.0\AlgoVAE.deps.json
+C:\Users\jaima\Desktop\AlgoVAE\bin\Debug\net8.0\AlgoVAE.runtimeconfig.json
+C:\Users\jaima\Desktop\AlgoVAE\bin\Debug\net8.0\AlgoVAE.dll
+C:\Users\jaima\Desktop\AlgoVAE\bin\Debug\net8.0\AlgoVAE.pdb
+C:\Users\jaima\Desktop\AlgoVAE\obj\Debug\net8.0\AlgoVAE.dll
+C:\Users\jaima\Desktop\AlgoVAE\obj\Debug\net8.0\refint\AlgoVAE.dll
+C:\Users\jaima\Desktop\AlgoVAE\obj\Debug\net8.0\AlgoVAE.pdb
+C:\Users\jaima\Desktop\AlgoVAE\obj\Debug\net8.0\AlgoVAE.genruntimeconfig.cache
+C:\Users\jaima\Desktop\AlgoVAE\obj\Debug\net8.0\ref\AlgoVAE.dll
